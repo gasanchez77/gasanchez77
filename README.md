@@ -82,7 +82,7 @@ Incluyen:
 
 ## 📫 Contacto
 
-📧 Email: *(agrega tu correo preferido)*  
+📧 Email: *(gasanchez7@gmail.com)*  
 🐙 GitHub: https://github.com/gasanchez77
 
 ---
